@@ -1,0 +1,34 @@
+# Node and dependencies
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Build output
+dist/
+*.tsbuildinfo
+
+# Environment files
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+
+# Local data & temp files
+uploads/
+uploads_data/
+postgres_data/
+redis_data/
+
+# Jest coverage
+coverage/
+.nyc_output/
+
+# Editor / OS files
+.DS_Store
+.idea/
+.vscode/
+
+# Misc
+tmp/
