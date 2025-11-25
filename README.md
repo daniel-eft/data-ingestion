@@ -13,7 +13,6 @@ A production-grade data ingestion pipeline built with TypeScript, Node.js, Expre
 *   [Design Document](docs/DESIGN_DOC.md)
 *   [Architecture Decision Record (Idempotency)](docs/ADR_IDEMPOTENCY.md)
 *   [Reasoning Document](docs/REASONING.md)
-*   [Testing Guide](docs/TESTING_GUIDE.md)
 
 ## Prerequisites
 *   Docker & Docker Compose
